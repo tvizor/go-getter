@@ -1,4 +1,4 @@
-module github.com/hashicorp/go-getter
+module github.com/tvizor/go-getter
 
 require (
 	cloud.google.com/go/iam v0.5.0 // indirect
